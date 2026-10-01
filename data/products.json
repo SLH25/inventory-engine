@@ -1,0 +1,9 @@
+[
+  {
+    "id": "P001",
+    "type": "physical",
+    "name": "Laptop",
+    "price": 800.0,
+    "quantity": 7
+  }
+]
